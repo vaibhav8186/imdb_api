@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  actorname: MyString
+  description: MyString
+  actordob: 2019-01-28
+
+two:
+  actorname: MyString
+  description: MyString
+  actordob: 2019-01-28

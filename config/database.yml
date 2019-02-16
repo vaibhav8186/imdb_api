@@ -1,0 +1,23 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: idmb_app_dev
+  pool: 5
+  username: vaibhav
+  password: root
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: idmb_app_test
+  pool: 5
+  username: vaibhav
+  password: root
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: idmb_app_prod
+  pool: 5
+  username: vaibhav
+  password: root
